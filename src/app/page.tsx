@@ -25,7 +25,7 @@ export default function Home() {
         <input
           className="my-2 border border-1 border-gray-200 p-3 rounded-md focus:outline-1 outline-blue-500"
           type="password"
-          placeholder="Password ?"
+          placeholder="Password"
         />
         <button className="bg-blue-500 py-2 rounded-md font-bold text-white my-2 hover:bg-blue-700 ">
           Log in
