@@ -31,7 +31,7 @@ export default function Home() {
           Log in
         </button>
         <p className="text-blue-500 cursor-pointer text-center hover:underline">
-          Forgotten password ok?
+          Forgotten password?
         </p>
         <span className="my-3">
           <hr></hr>
