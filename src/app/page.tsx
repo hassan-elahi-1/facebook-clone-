@@ -28,7 +28,7 @@ export default function Home() {
           placeholder="Password"
         />
         <button className="bg-blue-500 py-2 rounded-md font-bold text-white my-2 hover:bg-blue-700 ">
-          Log in
+          Log in karo beta
         </button>
         <p className="text-blue-500 cursor-pointer text-center hover:underline">
           Forgotten password?
